@@ -1,0 +1,20 @@
+name: "phi4"
+backend: "python"
+
+input [
+  {
+    name: "input_text"
+    data_type: TYPE_STRING
+    dims: [1]
+  }
+]
+
+output [
+  {
+    name: "output_text"
+    data_type: TYPE_STRING
+    dims: [1]
+  }
+]
+
+max_batch_size: 0

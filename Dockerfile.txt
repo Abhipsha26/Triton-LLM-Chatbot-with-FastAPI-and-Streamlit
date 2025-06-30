@@ -1,0 +1,6 @@
+FROM nvcr.io/nvidia/tritonserver:24.03-py3
+
+# Install required Python packages inside the Triton Python backend environment
+RUN pip install --upgrade pip
+RUN pip install torch transformers protobuf
+

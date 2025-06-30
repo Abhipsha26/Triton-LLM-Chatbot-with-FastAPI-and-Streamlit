@@ -1,0 +1,15 @@
+﻿{
+  "inputs": [
+    {
+      "name": "input_text",
+      "shape": [1],
+      "datatype": "BYTES",
+      "data": ["Write a magical adventure story that begins with "Once upon a time" and features a main character named Abhipsha. The main character's name is Abhipsha. Only use the name Abhipsha for the main character."]
+    }
+  ],
+  "outputs": [
+    {
+      "name": "output_text"
+    }
+  ]
+}
