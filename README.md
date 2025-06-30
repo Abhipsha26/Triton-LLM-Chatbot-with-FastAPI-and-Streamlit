@@ -1,6 +1,6 @@
 # Triton-LLM-Chatbot-with-FastAPI-and-Streamlit
 Interactive chatbot demo using NVIDIA Triton Inference Server, FastAPI, and Streamlit. User queries from a web UI are sent to a deployed LLM via FastAPI, enabling real-time conversational AI in a modular, research-friendly setup.
-
+ 
 Project Overview
 This project demonstrates how to deploy and interact with a large language model (LLM) using NVIDIA Triton Inference Server, FastAPI, and Streamlit. The goal is to provide a modular, research-friendly chatbot pipeline that showcases how modern LLMs can be served and accessed via a web interface.
 
