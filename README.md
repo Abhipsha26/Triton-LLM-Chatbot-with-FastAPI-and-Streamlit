@@ -46,3 +46,7 @@ Demonstrative: Shows a full pipeline from model serving to user interaction.
 Research-Friendly: Designed for experimentation, not production use.
 
 Extensible: Can be adapted for other models, UIs, or API frameworks.
+![Screenshot 2025-06-30 121916](https://github.com/user-attachments/assets/1f746edb-bf8b-4251-8d9b-c41ec6c80072)
+![Screenshot 2025-06-30 123659](https://github.com/user-attachments/assets/cb323820-d7d1-42a4-91a2-75a4dbcc2a69)
+
+
